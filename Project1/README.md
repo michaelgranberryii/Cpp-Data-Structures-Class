@@ -4,7 +4,7 @@
 
 * void printDescendants():
 
-this function prints the names of the descendants of a person, by decreasing age. 
+** this function prints the names of the descendants of a person, by decreasing age. 
 For example, pete.printDescendants() prints out
 
 joe mike 
