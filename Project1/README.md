@@ -4,7 +4,7 @@
 
 * void printDescendants(): This function prints the names of the descendants of a person, by decreasing age. 
 For example, pete.printDescendants() prints out
-joe mike 
+"joe mike" 
 where each name is separated by a single space.
 
 * hasAncestor(std::string other name): this function returns true of other name is a descendent of a given person. For example, 
