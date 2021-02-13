@@ -1,4 +1,4 @@
-# WeatherApp
+# Project 3
 
 Sort integers by implementing bucket sort.
 
