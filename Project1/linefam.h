@@ -62,7 +62,7 @@ public:
   void printDescendants() {
     // print descendants from oldest to youngest
 
-    // YOUR CODE HERE
+    // ==================================================== YOUR CODE HERE ================================
     Person* ptr = this;
     while (ptr->child != nullptr ) {
         ptr = ptr->child;
@@ -75,7 +75,7 @@ public:
     // returns false otherwise
     // the name comparison should be case-sensitive
 
-    // YOUR CODE HERE
+    //  ==================================================== YOUR CODE HERE ================================
     Person* ptr = this;
     while (ptr->parent != nullptr) {
         ptr = ptr->parent;
@@ -91,7 +91,7 @@ public:
     // returns false otherwise
     // the name comparison should be case-sensitive
       
-    // YOUR CODE HERE
+    //  ==================================================== YOUR CODE HERE ================================
     Person* ptr = this;
     while (ptr->child != nullptr ) {
         ptr = ptr->child;
