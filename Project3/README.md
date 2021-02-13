@@ -1,10 +1,8 @@
 # WeatherApp
 
-An iOS application that forecasts the weather for your current location via OpenWeather API.
+Sort integers by implementing bucket sort.
 
 # What I Learned
 
-* Use CocoaPods & AlamoFire alongside OpenWeather API
-* Update UI with API data
-* Find user locaiton with CLLocationManager
-* Parse JSON data
+* Bucket sort
+* Time Complexity
