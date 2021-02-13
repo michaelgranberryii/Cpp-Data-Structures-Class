@@ -1,10 +1,8 @@
-# WeatherApp
+# Project 2
 
-An iOS application that forecasts the weather for your current location via OpenWeather API.
+Traverse through a maze using a stack.
 
 # What I Learned
 
-* Use CocoaPods & AlamoFire alongside OpenWeather API
-* Update UI with API data
-* Find user locaiton with CLLocationManager
-* Parse JSON data
+* Stacks
+* Breath First Search
