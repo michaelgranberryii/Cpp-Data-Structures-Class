@@ -23,7 +23,7 @@ public:
     this->maze->draw(); // draws the maze to console
                         // see project1.pdf and maze.h for settings
 
-    // YOUR CODE HERE
+    //  ==================================================== YOUR CODE HERE ================================
     // you may also need to add your own helper functions
       
       start_pair = this->maze->start_pair();
